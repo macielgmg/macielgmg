@@ -51,7 +51,7 @@ Olá, me chamo Gabriel, tenho 19 anos e moro em Minas Gerais. Atualmente, estou 
 <img 
     align="left" 
     alt="Lua"
-    title="lua" 
+    title="Lua" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/lua/original.svg" 
