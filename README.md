@@ -10,6 +10,22 @@ Olá, me chamo Gabriel, tenho 19 anos e moro em Minas Gerais. Atualmente, estou 
 
 <img 
     align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/csharp/original.svg" 
+/>
+<img 
+    align="left" 
+    alt=".NET"
+    title=".NET" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/dot-net/plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -64,6 +80,30 @@ Olá, me chamo Gabriel, tenho 19 anos e moro em Minas Gerais. Atualmente, estou 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Salesforce"
+    title="Salesforce#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/salesforce/original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg" 
 />
 
 <br/>
