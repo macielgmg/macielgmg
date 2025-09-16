@@ -14,6 +14,14 @@ Olá, me chamo Gabriel, tenho 19 anos e moro em Minas Gerais. Atualmente, estou 
     title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/typescript/original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/csharp/original.svg" 
 />
 <img 
